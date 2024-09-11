@@ -7,7 +7,7 @@
     <version>1.0</version>
 
     <properties>
-        <log4j.version>2.14.1</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <enforcer.logger.import.rule.skip>true</enforcer.logger.import.rule.skip>
         <enforcer.legacy-collection.import.rule.skip>false</enforcer.legacy-collection.import.rule.skip>
     </properties>
